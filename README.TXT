@@ -1,12 +1,15 @@
-------------------------------------------------------------------------
-Ceci est le fichier LISEZMOI (README) du projet.  Décrivez-y votre projet.
-Dites au lecteur (qui ne sait rien du projet) ce qu'il a besoin de savoir.
-Au minimum, remplissez cette description :
-------------------------------------------------------------------------
+Project: midi-player-v2
+Authors: David Barnes and Michael Kölling
 
-TITRE DU PROJET :
-BUT POURSUIVI :
-VERSION ou DATE :
-COMMENT INVOQUER CE PROJET :
-AUTEURS :
-INSTRUCTIONS Ŕ L'USAGER :
+This project is part of the material for the book
+
+   Objects First with Java - A Practical Introduction using BlueJ
+   Seventh edition
+   David J. Barnes and Michael Kölling
+
+It is discussed in chapter 3.
+
+In this version, the TuneCreator class can be used to create and play a 
+simple demo tune.
+
+53: 
