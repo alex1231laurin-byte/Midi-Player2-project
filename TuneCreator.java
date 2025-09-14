@@ -28,6 +28,7 @@ public class TuneCreator
         tune.addNote("G4", 2);
         tune.addNote("G4", 4);
         tune.addNote("G4", 2);
+        tune.addNote("G4", 2);
         tune.addNote("A4", 6);
         tune.addNote("E4", 4);
         tune.addNote("G4", 4);
