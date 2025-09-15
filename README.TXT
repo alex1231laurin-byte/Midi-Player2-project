@@ -15,6 +15,5 @@ simple demo tune.
 55: It skips the line and goes for the rest of the code.
 56: It ignores the if statement and goes straight for the this.instrument = instrument;. If we do this
 to the other branch, it will ignore the else statement.
-57: It stops working because the Simpletune object doesn't exist.
-58: My debugger broke, and I do not understant how.
-Also, where was the Step button?
+57: It contignues to work even if the SimpleTune object is missing.
+58: The step into shows where the method call addNote goes to (in this case, notes.add(new Note(noteNane, duration));
